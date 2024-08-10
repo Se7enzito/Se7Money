@@ -1,0 +1,5 @@
+name: Se7Money
+version: 0.1
+author: Se7enzito
+main: me.se7money.Main
+commands:
